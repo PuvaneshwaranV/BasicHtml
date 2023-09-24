@@ -1,0 +1,48 @@
+body{
+    /* background: url(https://th.bing.com/th/id/OIP.eGkvXgoGXwDYKUBI-IFxUwHaFj?pid=ImgDet&rs=1); */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* background-size: 100%; */
+    background: #f2f2f2;
+}   
+.form{
+    width: 500px;
+    height: 450px;
+    margin:50px 300px;
+    background: #fff;
+    color: rgb(102, 83, 83);
+    border-radius: 8px;
+}
+h2{
+    padding-top: 8px;
+    text-align: center;
+    color: rgb(255, 123, 0);
+}
+.de{
+    border-radius: 3px;
+    margin:20px
+}
+.de input{
+    border-radius: 3px;
+}
+.us{
+    margin: 40px;
+}
+.ss{
+    padding: 4px;
+    border-radius: 5px;
+
+}
+.de1 {
+    margin: 20px;
+}
+.de1 input{
+    display: inline;
+    border: 1px solid black;
+}
+button{
+    margin-left: 55px;
+    padding: 15px 130px;
+    background-color: rgb(255, 123, 0);
+    font-size: 16px;
+}
+    
